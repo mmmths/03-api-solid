@@ -1,0 +1,1 @@
+factories são cirados para automatizar criação de casos de uso, pois o caso de uso pode ter mútiplas dependências
